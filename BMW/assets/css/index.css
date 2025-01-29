@@ -41,11 +41,30 @@ header{
     margin: 0 auto;
 }
 .numberOne > div{
-    width: 33%;
+    width: 30%;
+    height: 365px;
 }
 .numberTwo , .numberThree{
 float: left;
 }
 .numberFour{
     float:right;
+}
+.numberTwo > img{
+    width: 100%;
+}
+.card{
+    background-color: #333;
+    color: aquamarine;
+    border-radius: 45px;
+    padding: 20px;
+}
+.numberThree > img{
+    width: 100%;
+}
+.numberFour > img{
+    width: 100%;
+}
+.numberThree{
+    margin-left: 8px;
 }
